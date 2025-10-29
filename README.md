@@ -21,7 +21,7 @@ Source: https://orcid.org/0000-0001-9812-1078
 | Self-Adaptive Ensemble-based Differential Evolution with Enhanced Population Sizing | Budiman, H., Li Wang, S., Morsidi, F., Foo Ng, T., Chin Neoh, S. | 2020 2nd International Conference on Cybernetics and Intelligent System, ICORIS 2020 | 2020 | [10.1109/ICORIS50180.2020.9320767](https://doi.org/10.1109/ICORIS50180.2020.9320767) | [link](http://www.scopus.com/inward/record.url?eid=2-s2.0-85100398177&partnerID=MN8TOARS) |
 | Self-adaptive ensemble based differential evolution | Wang, S.L., Ng, T.F., Morsidi, F. | International Journal of Machine Learning and Computing | 2018 | [10.18178/ijmlc.2018.8.3.701](https://doi.org/10.18178/ijmlc.2018.8.3.701) | [link](http://www.scopus.com/inward/record.url?eid=2-s2.0-85048899383&partnerID=MN8TOARS) |
 | Feature Extraction Using Regular Expression in Detecting Proper Noun for Malay News Articles based on KNN Algorithm | Sulaiman, S., Wahid, R. A., Morsidi, F. | Journal of Fundamental and Applied Sciences | 2017 | [10.4314/JFAS.V9I5S.16](https://doi.org/10.4314/JFAS.V9I5S.16) | [link](https://doi.org/10.4314/JFAS.V9I5S.16) |
-| Malay Named Entity Recognition: A Review | Farid Morsidi, Sarkawi, Sulaiman, Sulaiman, Suliana, Wahid, Rohaizah Abdul | Journal of ICT in Education | 2015 |  | [link](https://ejournal.upsi.edu.my/index.php/JICTIE/article/view/2596) |
+| Malay Named Entity Recognition: A Review | Farid Morsidi, Sarkawi, Sulaiman, Sulaiman, Suliana, Wahid, Rohaizah Abdul | Journal of ICT in Education | 2015 | https://ejournal.upsi.edu.my/index.php/JICTIE/article/view/2596 | [link](https://ejournal.upsi.edu.my/index.php/JICTIE/article/view/2596) |
 
 
 
