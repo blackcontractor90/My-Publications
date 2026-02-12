@@ -7,7 +7,7 @@ Source: https://orcid.org/0000-0001-9812-1078
 
 | Title | Authors | Venue | Year | DOI | Link |
 |---|---|---|---|---|---|
-| An Intensification-Enhanced Adaptive Hybrid Memetic Algorithm for the Multi-Depot Vehicle Routing Problem with Time Windows | Farid Morsidi | Applications of Modelling and Simulation | 2026 |  | [link] |
+| An Intensification-Enhanced Adaptive Hybrid Memetic Algorithm for the Multi-Depot Vehicle Routing Problem with Time Windows | Farid Morsidi | Applications of Modelling and Simulation | 2026 |  | [link](https://arqiipubl.com/ojs/index.php/AMS_Journal/article/view/1127) |
 | A Modular Java-Based Framework for Deploying ONNX Time-Series Forecasting Models: A Rainfall Prediction Case Study | Farid Morsidi | Journal of Applied Engineering Design & Simulation | 2025 | [10.24191/jaeds.v5i2.144](https://doi.org/10.24191/jaeds.v5i2.144) | [link](https://doi.org/10.24191/jaeds.v5i2.144) |
 | Meta-Analysis on Substantive Mechanics for Maximizing Productivity and Cost Reciprocity in Routing Optimization | Farid Morsidi, Shir Li Wang | Applied Mathematics and Computational Intelligence (AMCI) | 2025 | [10.58915/amci.v14i2.918](https://doi.org/10.58915/amci.v14i2.918) | [link](https://doi.org/10.58915/amci.v14i2.918) |
 | Hybrid Learning for Bottlenose Dolphin Motion Approximation Using Weighted Polling KNN and Bayes Mechanism | Farid Morsidi | International Journal of Software Engineering and Computer Science (IJSECS) | 2025 | [10.15282/IJSECS.10.2.2024.14.0132](https://doi.org/10.15282/IJSECS.10.2.2024.14.0132) | [link](https://doi.org/10.15282/IJSECS.10.2.2024.14.0132) |
