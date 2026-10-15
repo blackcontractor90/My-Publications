@@ -7,6 +7,7 @@ Source: https://orcid.org/0000-0001-9812-1078
 
 | Title | Authors | Venue | Year | DOI | Link |
 |---|---|---|---|---|---|
+| Hybrid Machine Learning Merging KNN and Naive Bayes Weighted Polling for Dry Beans Multiclass Classification | Farid Morsidi | ASM Science Journal, 21(2) | 2026 | 10.32802/asmscj.2026.66 | link |
 | Scalable Metaheuristic Optimization of Asymmetric and Clustered TSP Variants using Iterated Local Search | Farid Morsidi | Journal of Telecommunication, Electronic and Computer Engineering | 2026 | [10.54554/jtec.2026.18.01.005](https://doi.org/10.54554/jtec.2026.18.01.005) | [link](https://doi.org/10.54554/jtec.2026.18.01.005) |
 | MLP Sliding-Window Forecasting for Electricity Load Prediction : A Multi-Scale Evaluation using an ONNX-based Java Framework | Farid Morsidi, Asma Hanee Ariffin, Rohaizah Abdul Wahid | Journal of Applied Engineering Design & Simulation | 2026 |  [10.24191/jaeds.v6i1](https://doi.org/10.24191/jaeds.v6i1.164) | [link](https://doi.org/10.24191/jaeds.v6i1.164) |
 | An Intensification-Enhanced Adaptive Hybrid Memetic Algorithm for the Multi-Depot Vehicle Routing Problem with Time Windows | Farid Morsidi | Applications of Modelling and Simulation | 2026 |  | [link](https://arqiipubl.com/ojs/index.php/AMS_Journal/article/view/1127) |
