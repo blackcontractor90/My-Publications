@@ -9,8 +9,8 @@ Source: https://orcid.org/0000-0001-9812-1078
 |---|---|---|---|---|---|
 | Hybrid Machine Learning Merging KNN and Naive Bayes Weighted Polling for Dry Beans Multiclass Classification | Farid Morsidi | ASM Science Journal, 21(2) | 2026 | [10.32802/asmscj.2026.66](https://doi.org/10.32802/asmscj.2026.66) | [link](https://doi.org/10.32802/asmscj.2026.66) |
 | Scalable Metaheuristic Optimization of Asymmetric and Clustered TSP Variants using Iterated Local Search | Farid Morsidi | Journal of Telecommunication, Electronic and Computer Engineering | 2026 | [10.54554/jtec.2026.18.01.005](https://doi.org/10.54554/jtec.2026.18.01.005) | [link](https://doi.org/10.54554/jtec.2026.18.01.005) |
-| MLP Sliding-Window Forecasting for Electricity Load Prediction : A Multi-Scale Evaluation using an ONNX-based Java Framework | Farid Morsidi, Asma Hanee Ariffin, Rohaizah Abdul Wahid | Journal of Applied Engineering Design & Simulation | 2026 |  [10.24191/jaeds.v6i1](https://doi.org/10.24191/jaeds.v6i1.164) | [link](https://doi.org/10.24191/jaeds.v6i1.164) |
-| An Intensification-Enhanced Adaptive Hybrid Memetic Algorithm for the Multi-Depot Vehicle Routing Problem with Time Windows | Farid Morsidi | Applications of Modelling and Simulation | 2026 |  | [link](https://arqiipubl.com/ojs/index.php/AMS_Journal/article/view/1127) |
+| MLP Sliding-Window Forecasting for Electricity Load Prediction : A Multi-Scale Evaluation using an ONNX-based Java Framework | Farid Morsidi, Asma Hanee Ariffin, Rohaizah Abdul Wahid | Journal of Applied Engineering Design & Simulation | 2026 | [10.24191/jaeds.v6i1](https://doi.org/10.24191/jaeds.v6i1.164) | [link](https://doi.org/10.24191/jaeds.v6i1.164) |
+| An Intensification-Enhanced Adaptive Hybrid Memetic Algorithm for the Multi-Depot Vehicle Routing Problem with Time Windows | Farid Morsidi | Applications of Modelling and Simulation | 2026 | — | [link](https://arqiipubl.com/ojs/index.php/AMS_Journal/article/view/1127) |
 | A Modular Java-Based Framework for Deploying ONNX Time-Series Forecasting Models: A Rainfall Prediction Case Study | Farid Morsidi | Journal of Applied Engineering Design & Simulation | 2025 | [10.24191/jaeds.v5i2.144](https://doi.org/10.24191/jaeds.v5i2.144) | [link](https://doi.org/10.24191/jaeds.v5i2.144) |
 | Meta-Analysis on Substantive Mechanics for Maximizing Productivity and Cost Reciprocity in Routing Optimization | Farid Morsidi, Shir Li Wang | Applied Mathematics and Computational Intelligence (AMCI) | 2025 | [10.58915/amci.v14i2.918](https://doi.org/10.58915/amci.v14i2.918) | [link](https://doi.org/10.58915/amci.v14i2.918) |
 | Hybrid Learning for Bottlenose Dolphin Motion Approximation Using Weighted Polling KNN and Bayes Mechanism | Farid Morsidi | International Journal of Software Engineering and Computer Science (IJSECS) | 2025 | [10.15282/IJSECS.10.2.2024.14.0132](https://doi.org/10.15282/IJSECS.10.2.2024.14.0132) | [link](https://doi.org/10.15282/IJSECS.10.2.2024.14.0132) |
@@ -26,10 +26,3 @@ Source: https://orcid.org/0000-0001-9812-1078
 | Self-adaptive ensemble based differential evolution | Wang, S.L., Ng, T.F., Morsidi, F. | International Journal of Machine Learning and Computing | 2018 | [10.18178/ijmlc.2018.8.3.701](https://doi.org/10.18178/ijmlc.2018.8.3.701) | [link](http://www.scopus.com/inward/record.url?eid=2-s2.0-85048899383&partnerID=MN8TOARS) |
 | Feature Extraction Using Regular Expression in Detecting Proper Noun for Malay News Articles based on KNN Algorithm | Sulaiman, S., Wahid, R. A., Morsidi, F. | Journal of Fundamental and Applied Sciences | 2017 | [10.4314/JFAS.V9I5S.16](https://doi.org/10.4314/JFAS.V9I5S.16) | [link](https://doi.org/10.4314/JFAS.V9I5S.16) |
 | Malay Named Entity Recognition: A Review | Farid Morsidi, Sarkawi, Sulaiman, Sulaiman, Suliana, Wahid, Rohaizah Abdul | Journal of ICT in Education | 2015 | https://ejournal.upsi.edu.my/index.php/JICTIE/article/view/2596 | [link](https://ejournal.upsi.edu.my/index.php/JICTIE/article/view/2596) |
-
-
-
-
-
-
-
